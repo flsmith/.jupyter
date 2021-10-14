@@ -1,0 +1,8 @@
+{
+  "load_extensions": {
+    "toc2/main": true
+  },
+  "toc2": {
+    "number_sections": false
+  }
+}
